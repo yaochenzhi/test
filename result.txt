@@ -1,0 +1,7 @@
+Off course, when the latest commit of the repo on the cloud is not made by you, you have to pull the repo to local fisrt to make the merge.
+
+The cloud repo is just a storage.
+
+All actual work is done completely locally by the git tool.
+
+Check the version. Check the file. Cp the different file to cover the past aside with the version control info.
